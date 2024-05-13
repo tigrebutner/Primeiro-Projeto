@@ -56,6 +56,14 @@ body * {
   line-height: 24px; 
   margin-top: 8px;
 } 
+
+.profile-instagram { 
+  text-decoration: none;
+}
+
+.profile-instagram:hover {
+  color: antiquewhite;
+}
   
 /* switch */ 
 #switch {  
@@ -63,7 +71,8 @@ body * {
   width: 64px; 
   margin: 4px auto;
   cursor: pointer;
-} 
+}
+
 #switch button {  
   cursor: pointer;
   width: 32px; 
