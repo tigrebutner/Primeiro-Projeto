@@ -139,7 +139,11 @@ ul li a {
   font-weight: 500; 
    
   transition: background 0.2s;
-} 
+}  
+ 
+.not-allowed {
+  cursor: not-allowed;
+}
  
 /* pseudo-selector */ 
 ul li a:hover{ 
